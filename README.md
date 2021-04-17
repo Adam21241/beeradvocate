@@ -1,7 +1,7 @@
 # beeradvocate
 
 
-How to set up project locally:
+**How to set up project locally:**
 
 1) make sure you have python 3.9 and conda installed (depends on your OS)
 
@@ -18,7 +18,7 @@ conda install --file requirements.txt
 conda activate beeradvocate
 
 
-Other helpful commands:
+**Other helpful commands:**
 
 1) install some package:
 conda install pandas
@@ -36,7 +36,7 @@ conda env list
 conda deactivate
 
 
-Description:
+**Description:**
 
 In this project I wanted to provide an answer for the following questions:
 
