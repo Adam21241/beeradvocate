@@ -1,7 +1,7 @@
 # beeradvocate
 
 
-How to set up project locally:
+**How to set up project locally:**
 
 1) make sure you have python 3.9 and conda installed (depends on your OS)
 
@@ -16,9 +16,9 @@ conda install --file requirements.txt
 
 5) activate conda virtualenv:
 conda activate beeradvocate
+</br>
 
-
-Other helpful commands:
+**Other helpful commands:**
 
 1) install some package:
 conda install pandas
@@ -34,11 +34,9 @@ conda env list
 
 5) deactivate conda virtualenv:
 conda deactivate
+</br>
 
-
-Description:
-
-In this project I wanted to provide an answer for the following questions:
+**In this project I wanted to provide an answer for the following questions:**
 
 1. Which brewery produces the strongest beers by abv ? (answer in data_exploration.ipynb)
 
