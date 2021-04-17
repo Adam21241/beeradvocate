@@ -16,7 +16,7 @@ conda install --file requirements.txt
 
 5) activate conda virtualenv:
 conda activate beeradvocate
-
+</br>
 
 **Other helpful commands:**
 
@@ -34,7 +34,7 @@ conda env list
 
 5) deactivate conda virtualenv:
 conda deactivate
-
+</br>
 
 **In this project I wanted to provide an answer for the following questions:**
 
