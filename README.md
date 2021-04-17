@@ -36,9 +36,7 @@ conda env list
 conda deactivate
 
 
-**Description:**
-
-In this project I wanted to provide an answer for the following questions:
+**In this project I wanted to provide an answer for the following questions:**
 
 1. Which brewery produces the strongest beers by abv ? (answer in data_exploration.ipynb)
 
