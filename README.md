@@ -47,4 +47,4 @@ conda deactivate
 
 3. What are the factors that impacts the quality of beer the most ? (answer in data_exploration.ipynb)
 
-4. I enjoy a beer which aroma and appearance matches the beer style. What beer should I buy ? (not solved yet)
+4. I enjoy a beer which aroma and appearance matches the beer style. What beer should I buy ? (proposal of answer in issue #5)
