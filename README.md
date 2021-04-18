@@ -14,11 +14,11 @@ https://data.world/socialmediadata/beeradvocate/
 4) create conda virtualenv:
 conda create -n beeradvocate python=3.9
 
-5) install packages from requirements:
-conda install --file requirements.txt
-
-6) activate conda virtualenv:
+5) activate conda virtualenv:
 conda activate beeradvocate
+
+6) install packages from requirements:
+conda install --file requirements.txt
 </br>
 
 **Other helpful commands:**
