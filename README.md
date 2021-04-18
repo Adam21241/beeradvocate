@@ -8,13 +8,16 @@
 2) clone repo:
 git clone https://github.com/adam21241/beeradvocate.git
 
-3) create conda virtualenv:
+3) download dataset (into root of the project) from:
+https://data.world/socialmediadata/beeradvocate/
+
+4) create conda virtualenv:
 conda create -n beeradvocate python=3.9
 
-4) install packages from requirements:
+5) install packages from requirements:
 conda install --file requirements.txt
 
-5) activate conda virtualenv:
+6) activate conda virtualenv:
 conda activate beeradvocate
 </br>
 
